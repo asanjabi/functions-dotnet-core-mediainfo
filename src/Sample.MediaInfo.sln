@@ -14,7 +14,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.MediaInfo.ConsoleApp", "Sample.MediaInfo.ConsoleApp\Sample.MediaInfo.ConsoleApp.csproj", "{C48D065C-9A7D-490F-8DC2-BB8555AA9F73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample.MediaInfo.ConsoleApp", "Sample.MediaInfo.ConsoleApp\Sample.MediaInfo.ConsoleApp.csproj", "{C48D065C-9A7D-490F-8DC2-BB8555AA9F73}"
+EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "ARMTemplates", "ARMTemplates\ARMTemplates.deployproj", "{F0D65031-0AEF-4DD0-AE48-CB2F02F15BCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +40,10 @@ Global
 		{C48D065C-9A7D-490F-8DC2-BB8555AA9F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C48D065C-9A7D-490F-8DC2-BB8555AA9F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C48D065C-9A7D-490F-8DC2-BB8555AA9F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0D65031-0AEF-4DD0-AE48-CB2F02F15BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0D65031-0AEF-4DD0-AE48-CB2F02F15BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0D65031-0AEF-4DD0-AE48-CB2F02F15BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0D65031-0AEF-4DD0-AE48-CB2F02F15BCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
